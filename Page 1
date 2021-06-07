@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head><title>Page 2</title></head>
+<body> Welcome to Page number 2!
+    <h1>I'm getting this!</h1>
+    
+    <a href="index.html"><h1>Go Back</h1>
+        
+    </a>
+</body>
+
+</html>
